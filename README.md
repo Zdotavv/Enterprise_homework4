@@ -1,4 +1,4 @@
-https://github.com/Zdotavv/Enterprise_homework4/actions
+[![Java CI with Maven](https://github.com/Zdotavv/Enterprise_homework4/actions/workflows/maven.yml/badge.svg)](https://github.com/Zdotavv/Enterprise_homework4/actions/workflows/maven.yml)
 
 # Homework4
 
